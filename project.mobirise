@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "LexiCraft.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -141,7 +141,7 @@
         }
       ]
     },
-    "LexiCraft.html": {
+    "index.html": {
       "settings": {
         "main": true,
         "title": "Home",
